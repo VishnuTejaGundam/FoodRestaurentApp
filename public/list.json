@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Spicy Chicken Wings",
+    "title": "Our spicy chicken wings are a crowd favorite, offering a perfect balance of heat and flavor. Crispy on the outside and tender on the inside, these wings are coated in a zesty sauce that packs a punch. ",
+    "price": "$20",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/top-view-fried-chicken-with-variety-three-sauces_23-2148646572.jpg?t=st=1712687135~exp=1712690735~hmac=3de5baa999f847223a10f0b36d3e59268e24d2079c2b7a84738fff689422dfe2&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Fresh Seafood Pasta",
+    "title": "Our spicy chicken wings are a crowd favorite, offering a perfect balance of heat and flavor. Crispy on the outside and tender on the inside, these wings are coated in a zesty sauce that packs a punch. ",
+    "price": "$20",
+    "category": "10% Discount",
+    "image": "https://img.freepik.com/free-photo/top-view-fried-chicken-with-variety-three-sauces_23-2148646572.jpg?t=st=1712687135~exp=1712690735~hmac=3de5baa999f847223a10f0b36d3e59268e24d2079c2b7a84738fff689422dfe2&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Vegetarian Buddha Bowl",
+    "title": "Our spicy chicken wings are a crowd favorite, offering a perfect balance of heat and flavor. Crispy on the outside and tender on the inside, these wings are coated in a zesty sauce that packs a punch. ",
+    "price": "$20",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/top-view-fried-chicken-with-variety-three-sauces_23-2148646572.jpg?t=st=1712687135~exp=1712690735~hmac=3de5baa999f847223a10f0b36d3e59268e24d2079c2b7a84738fff689422dfe2&w=740"
+  },
+  {
+    "id": 4,
+    "name": "BBQ Ribs Combo",
+    "title": "Our spicy chicken wings are a crowd favorite, offering a perfect balance of heat and flavor. Crispy on the outside and tender on the inside, these wings are coated in a zesty sauce that packs a punch. ",
+    "price": "$20",
+    "category": "10% Discount",
+    "image": "https://img.freepik.com/free-photo/top-view-fried-chicken-with-variety-three-sauces_23-2148646572.jpg?t=st=1712687135~exp=1712690735~hmac=3de5baa999f847223a10f0b36d3e59268e24d2079c2b7a84738fff689422dfe2&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Classic Cheeseburgers",
+    "title": "Our spicy chicken wings are a crowd favorite, offering a perfect balance of heat and flavor. Crispy on the outside and tender on the inside, these wings are coated in a zesty sauce that packs a punch. ",
+    "price": "$20",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/top-view-fried-chicken-with-variety-three-sauces_23-2148646572.jpg?t=st=1712687135~exp=1712690735~hmac=3de5baa999f847223a10f0b36d3e59268e24d2079c2b7a84738fff689422dfe2&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Decadent Chocolate Cakes",
+    "title": "Our spicy chicken wings are a crowd favorite, offering a perfect balance of heat and flavor. Crispy on the outside and tender on the inside, these wings are coated in a zesty sauce that packs a punch. ",
+    "price": "$20",
+    "category": "10% Discount",
+    "image": "https://img.freepik.com/free-photo/top-view-fried-chicken-with-variety-three-sauces_23-2148646572.jpg?t=st=1712687135~exp=1712690735~hmac=3de5baa999f847223a10f0b36d3e59268e24d2079c2b7a84738fff689422dfe2&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Refreshing Fruit Smoothie",
+    "title": "Our spicy chicken wings are a crowd favorite, offering a perfect balance of heat and flavor. Crispy on the outside and tender on the inside, these wings are coated in a zesty sauce that packs a punch. ",
+    "price": "$20",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/top-view-fried-chicken-with-variety-three-sauces_23-2148646572.jpg?t=st=1712687135~exp=1712690735~hmac=3de5baa999f847223a10f0b36d3e59268e24d2079c2b7a84738fff689422dfe2&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Sizzling Steak",
+    "title": "Our spicy chicken wings are a crowd favorite, offering a perfect balance of heat and flavor. Crispy on the outside and tender on the inside, these wings are coated in a zesty sauce that packs a punch. ",
+    "price": "$20",
+    "category": "10% Discount",
+    "image": "https://img.freepik.com/free-photo/top-view-fried-chicken-with-variety-three-sauces_23-2148646572.jpg?t=st=1712687135~exp=1712690735~hmac=3de5baa999f847223a10f0b36d3e59268e24d2079c2b7a84738fff689422dfe2&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Gourmet Pizza",
+    "title": "Our spicy chicken wings are a crowd favorite, offering a perfect balance of heat and flavor. Crispy on the outside and tender on the inside, these wings are coated in a zesty sauce that packs a punch. ",
+    "price": "$20",
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/top-view-fried-chicken-with-variety-three-sauces_23-2148646572.jpg?t=st=1712687135~exp=1712690735~hmac=3de5baa999f847223a10f0b36d3e59268e24d2079c2b7a84738fff689422dfe2&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Sushi Platter",
+    "title": "Our spicy chicken wings are a crowd favorite, offering a perfect balance of heat and flavor. Crispy on the outside and tender on the inside, these wings are coated in a zesty sauce that packs a punch. ",
+    "price": "$20",
+    "category": "10% Discount",
+    "image": "https://img.freepik.com/free-photo/top-view-fried-chicken-with-variety-three-sauces_23-2148646572.jpg?t=st=1712687135~exp=1712690735~hmac=3de5baa999f847223a10f0b36d3e59268e24d2079c2b7a84738fff689422dfe2&w=740"
+  }
+]
